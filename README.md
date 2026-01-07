@@ -1,4 +1,4 @@
-# Fuel CMS 1.4.1 RCE – 
+# Fuel CMS 1.4.1 RCE 
 
 ## Run Exploit
 ```
